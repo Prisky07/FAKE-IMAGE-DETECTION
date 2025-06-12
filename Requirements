@@ -1,0 +1,3 @@
+To run this code, ensure you have these installed:
+pip install torch torchvision numpy scikit-learn tqdm
+
